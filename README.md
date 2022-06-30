@@ -1,3 +1,3 @@
 # FakerCoffee
 
-A Polimorfirsmo library to generate feke data.
+A Polimorfirsmo library to generate fake data.
